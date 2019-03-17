@@ -13,4 +13,13 @@ npm install -g json-server
 git clone https://github.com/kofi-dalvik/fake-json-server.git
 ```
 
-## Usage
+## Folder structure
+- root
+    - database
+        - seeds (Your seeds go here)
+        - snapshots (Created snapshots goes here)
+        - index.js (Starts up your database)
+    - .gitignore
+    - app.js
+    - package.json
+    - README.md
