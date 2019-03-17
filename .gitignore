@@ -1,0 +1,3 @@
+./seeds/institutions.js
+./seeds/institutionTypes.js
+./seeds/regions.js

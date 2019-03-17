@@ -1,0 +1,12 @@
+{
+  "name": "fake-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "serve": "cd ./database/snapshots && json-server ./../../app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
