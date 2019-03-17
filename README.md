@@ -41,8 +41,6 @@ Your seeds must export a function as in /database/seeds/users.js
 
 ## NB
 Your seeds should be named according to how the routes will be accessed.
-e.g /database/seeds/users.js will be accessed via [http:localhost:3000/users]
-/database/seeds/posts.js will be accessed via [http:localhost:3000/posts]
-etc
+e.g /database/seeds/users.js will be accessed via http:localhost:3000/users and /database/seeds/posts.js will be accessed via http:localhost:3000/posts.
 
 Read [json-server](https://github.com/typicode/json-server) docs for more.
